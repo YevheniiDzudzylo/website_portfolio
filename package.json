@@ -1,0 +1,16 @@
+{
+  "name": "my_mew_lp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://yevheniidzudzylo.github.io/website_portfolio",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
